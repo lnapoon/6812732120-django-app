@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+db.sqlite3
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Vercel build output
+staticfiles_build/
+.vercel/
